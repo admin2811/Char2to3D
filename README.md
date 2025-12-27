@@ -5,6 +5,7 @@ A desktop application for generating 3D human models from 2D images using advanc
 ## Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [System Architecture](#system-architecture)
 - [Installation](#installation)
@@ -24,6 +25,18 @@ The system integrates multiple reconstruction approaches:
 - **Single-view reconstruction**: Generate 3D models from a single image using PiFu/PiFuHD
 - **Multi-view reconstruction**: Improved accuracy using multiple viewpoints
 - **ICON integration**: Advanced implicit clothing reconstruction
+
+## Screenshots
+
+### Application Interface
+
+![Application Interface](img/Picture1.png)
+*Main application interface showing the control panel, upload area, and 3D model preview*
+
+### 3D Reconstruction Results
+
+![3D Model Results](img/Picture2.png)
+*Example of 3D human model reconstruction from 2D input image*
 
 ## Features
 
